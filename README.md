@@ -36,4 +36,4 @@ const messages = [
 <MessageList messages={messages} theme="dark" />
 ```
 
-You can also check [the source for the demo above](/docs/src/docs.tsx) for a more detailed example.
+You can also check [the source for the demo above](https://github.com/Dragory/react-discord-message/blob/main/docs/src/docs.tsx) for a more detailed example.
