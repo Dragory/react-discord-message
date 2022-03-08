@@ -1,6 +1,6 @@
 {
   "name": "@mivir/react-discord-message",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
   "type": "module",
