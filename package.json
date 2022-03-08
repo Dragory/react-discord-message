@@ -7,7 +7,8 @@
   "scripts": {
     "build": "rm -rf dist && tsc",
     "build-docs": "rm -rf docs/dist && esbuild docs/src/docs.tsx --bundle --minify --format=esm --outfile=docs/dist/docs.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "npm-publish": "npm publish --access public"
   },
   "author": "Miikka (Dragory)",
   "license": "MIT",
