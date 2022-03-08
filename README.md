@@ -3,7 +3,7 @@ React component for rendering Discord messages.
 Uses the excellent [discord-markdown](https://www.npmjs.com/package/discord-markdown) package for rendering Discord markdown.
 Comes with full TypeScript types based on [discord-api-types](https://www.npmjs.com/package/discord-api-types).
 
-[**OPEN DEMO**](https://dragory.github.io/discord-message-react/)
+[**OPEN DEMO**](https://dragory.github.io/react-discord-message/)
 
 ## Roadmap
 This library is currently a work in progress.
