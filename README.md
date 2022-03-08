@@ -10,8 +10,13 @@ This library is currently a work in progress.
 - [X] Message text content rendering
 - [X] Dark/light theme
 - [X] Message grouping logic
+- [ ] Message timestamps
+- [ ] Date separators
 - [ ] Embeds
 - [ ] Attachments
+- [ ] Stickers
+- [ ] Replies
+- [ ] Reactions
 
 ## Installation
 
